@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 Sobre mi:
-👩‍💻 Actualmente estoy realizando trabajos como freelancer en Laravel PHP y además estoy en una empresa de desarrollo ubicada en mi país.
+👩‍💻 Actualmente estoy realizando trabajos como freelancer en Laravel PHP / Spring Boot y además estoy en una empresa de desarrollo ubicada en mi país.
 
-🧠 Me gusta aprender como abordar mas conocimiento. Estoy en el proceso de aprender Vue.js para mejorar mi manejo del frontend y ser el paquete completo como desarrollador FullStack.
+🧠 Me gusta aprender como abordar mas conocimiento. Estoy en el proceso mejorar mi manejo del frontend con el framework Vue.js y ser el paquete completo como desarrollador FullStack.
 
 📫 Soy de Bolivia y por el momento solo manejo el español ya que es mi lenguaje nativo.
 
